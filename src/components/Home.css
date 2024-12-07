@@ -1,0 +1,22 @@
+h1 {
+    font-family:cursive;
+    margin-top: 25vh;
+    margin-left: 5vh;
+    width: 90vh;
+    /* padding: 5vh; */
+    font-size: 3rem;
+    
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    margin-top: 15vh;
+    border-radius: 50%;
+}
+
+.home {
+    display: flex;
+    justify-content: space-around;
+
+}

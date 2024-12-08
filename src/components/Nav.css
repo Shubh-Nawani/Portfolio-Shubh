@@ -2,9 +2,11 @@
     margin-top: 5vh;
     padding: 0;
     display: flex;
-    
-    box-sizing: border-box;
+    /* border: 2px solid red; */
+    box-sizing: border-box; 
     justify-content: space-around;
+    height: 40px;
+    
 }
 
 a {
